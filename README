@@ -1,0 +1,7 @@
+
+start your web server and point your browser to http://localhost:8080/<MyApp>/index.html
+
+e.g. deploying MyFirstApp to Tomcat:
+copy MyFirstApp directory to Tomcat's webapps directory
+go to URL localhost:8080/MyFirstApp/ 
+
